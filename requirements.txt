@@ -35,7 +35,7 @@ jsonschema==4.16.0
 jupyter==1.0.0
 jupyter-console==6.4.4
 jupyter-core==4.11.1
-jupyter_client==7.3.5
+jupyter_client==7.3.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.3
 kiwisolver==1.4.4
@@ -92,7 +92,7 @@ terminado==0.15.0
 threadpoolctl==3.1.0
 tinycss2==1.1.1
 toolz==0.12.0
-tornado
+tornado==6.1
 traitlets==5.4.0
 urllib3==1.26.12
 wcwidth==0.2.5
